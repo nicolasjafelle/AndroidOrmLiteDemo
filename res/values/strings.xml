@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Check the logcat to see the output!</string>
+    <string name="app_name">AndroidORMLiteTest</string>
+    <string name="tip">TIP: It would be better if you check the results in debug mode, to see in real time all the big data.</string>
+</resources>
